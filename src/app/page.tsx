@@ -106,7 +106,7 @@ export default function Home() {
 				<Flex
 					gap="12">
 					<Button
-						href="www.linkedin.com/in/eslam-shakreen-951a56197"
+						href="https://www.linkedin.com/in/eslam-shakreen/"
 						prefixIcon="linkedin" size="s" variant="tertiary">
 						Linkedin
 					</Button>
