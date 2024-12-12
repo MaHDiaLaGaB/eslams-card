@@ -75,7 +75,7 @@ export default function Home() {
 									<Heading variant="body-strong-m">Stuff I Like</Heading>
 									<Flex direction="row" gap="8">
 										<Tag variant="info" size="m" label="Coding" />
-										<Tag variant="brand" size="m" label="Anime" />
+										<Tag variant="brand" size="m" label="Football" />
 										<Tag variant="accent" size="m" label="Gaming" />
 									</Flex>
 								</Flex>
