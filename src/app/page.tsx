@@ -83,7 +83,7 @@ export default function Home() {
 
 							<Button
 								id="readDocs"
-								href=""
+								onClick={() => window.open("https://www.hypervizion.ly/", '_blank', 'noopener,noreferrer')}
 								variant="secondary">
 								<Flex alignItems="center">
 									To HyperVizion
@@ -106,17 +106,17 @@ export default function Home() {
 				<Flex
 					gap="12">
 					<Button
-						href=""
+						href="www.linkedin.com/in/eslam-shakreen-951a56197"
 						prefixIcon="linkedin" size="s" variant="tertiary">
 						Linkedin
 					</Button>
 					<Button
-						href=""
+						href="https://x.com/EShakreen"
 						prefixIcon="x" size="s" variant="tertiary">
 						@Eslam
 					</Button>
 				</Flex>
 			</Flex>
-		</Flex>
+		</Flex >
 	);
 }

@@ -39,7 +39,7 @@ const schema = {
 
 // social links
 const social = {
-    x: '',
+    x: 'https://x.com/EShakreen',
     linkedin: 'www.linkedin.com/in/eslam-shakreen-951a56197',
     discord: ''
 }
